@@ -1,4 +1,4 @@
-# Karma generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-karma.svg?branch=master)](http://travis-ci.org/yeoman/generator-karma)
+# Karma generator [![Build Status](https://secure.travis-ci.org/onshape/generator-karma-typescript.svg?branch=typescript)](http://travis-ci.org/onshape/generator-karma-typescript)
 
 See the [Karma documentation](http://karma-runner.github.com/) for more info.
 

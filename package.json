@@ -1,11 +1,11 @@
 {
-  "name": "generator-karma",
+  "name": "generator-karma-typescript",
   "version": "1.0.0",
-  "description": "Yeoman generator for Karma",
+  "description": "Yeoman generator for Karma with TypeScript",
   "license": "BSD",
   "main": "app/index.js",
-  "repository": "yeoman/generator-karma",
-  "author": "The Yeoman Team",
+  "repository": "onshape/generator-karma-typescript",
+  "author": ["The Yeoman Team", "awk@onshape.com"],
   "engines": {
     "node": ">=0.10.0",
     "npm": ">=1.2.10"
@@ -22,7 +22,8 @@
     "scaffold",
     "test",
     "runner",
-    "karma"
+    "karma",
+    "typescript"
   ],
   "dependencies": {
     "underscore": "^1.6.0",
